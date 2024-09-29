@@ -79,11 +79,11 @@ html {
 }
 
 .copy-text:hover {
-  color: #39FF14;
+  color: white;
 }
 
 .success-message {
-  color: #39FF14;
+  color: white;
   margin-top: 10px;
 }
 
