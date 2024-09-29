@@ -99,6 +99,9 @@ html {
   .btn-primary {
     padding: 10px 15px;
   }
+  .copy-text {
+    font-size: 1.2rem;
+  }
 }
 
 /* Pro mobilní telefony */
